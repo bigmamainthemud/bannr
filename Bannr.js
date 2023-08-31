@@ -2,7 +2,7 @@
 // -- NOTES --
 // 'addChildren' - does not req. an array
 // Added 'sheetsLoader'
-// Removed setMask; ADDED THAT CHIT BACK
+// Removed setMask;
 
 'use strict';
 
